@@ -51,9 +51,9 @@ spinner.setOnItemSelectedListener(this);
     public void onItemSelected(AdapterView<?> adapterView, View view, int i, long l) {
         String text = adapterView.getItemAtPosition(i).toString();
         Toast.makeText(this, text, Toast.LENGTH_SHORT).show();
-        if (i==1){
-            Toast.makeText(this, "Yo locks", Toast.LENGTH_SHORT).show();
-        }
+//         if (i==1){
+//             Toast.makeText(this, "Yo locks", Toast.LENGTH_SHORT).show();
+//         }
     }
 
     @Override
