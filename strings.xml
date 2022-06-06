@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SpinnerHeader</string>
+    <string-array name="items">
+        <item>select a num</item>
+        <item>one</item>
+        <item>two</item>
+        <item>three</item>
+        <item>four</item>
+        <item>five</item>
+        <item>six</item>
+        <item>seven</item>
+    </string-array>
+</resources>
